@@ -1,6 +1,6 @@
 # crime-prediction
 
-完成時間：2023.05
+完成時間：2023.05（修1春夏）
 
 ## データ：
 **リンク**：https://geodacenter.github.io/data-and-lab//airbnb/
